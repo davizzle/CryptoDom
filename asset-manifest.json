@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CryptoDom/static/css/main.f4708e35.css",
+    "main.js": "/CryptoDom/static/js/main.6afdc907.js",
+    "index.html": "/CryptoDom/index.html",
+    "main.f4708e35.css.map": "/CryptoDom/static/css/main.f4708e35.css.map",
+    "main.6afdc907.js.map": "/CryptoDom/static/js/main.6afdc907.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4708e35.css",
+    "static/js/main.6afdc907.js"
+  ]
+}
